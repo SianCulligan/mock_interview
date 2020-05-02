@@ -22,4 +22,4 @@
 - O(n) space, the size of getMax scales with the size of the input.
 
 ## Code
-- (Question One)[./questionOne.js]
+- [Question One](./questionOne.js)
