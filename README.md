@@ -20,3 +20,6 @@
 ## Big O
 - O(n) / linear time, the loop will run for the number of items in the input. 
 - O(n) space, the size of getMax scales with the size of the input.
+
+## Code
+- (Question One)[./questionOne.js]
